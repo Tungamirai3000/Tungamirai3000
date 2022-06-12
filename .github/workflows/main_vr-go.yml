@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'vr-go'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A30A94E166B4BF2BADB3804BB82FD8E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1CA1AA7F17144A08AB5614C04A8A50E }}
           package: .
